@@ -36,5 +36,6 @@
     {"version": "v0.1.2.114", "file": "mppt_v0.1.2.114.bin", "date": "2026-02-25", "description": "DFU timeout recovery, display HW reset on blanking_off, open SMP perms"},
     {"version": "v0.1.2.115", "file": "mppt_v0.1.2.115.bin", "date": "2026-02-25", "description": "DFU timeout recovery, display HW reset on blanking_off, open SMP perms"},
     {"version": "v0.1.2.116", "file": "mppt_v0.1.2.116.bin", "date": "2026-02-25", "description": "DFU timeout recovery, display HW reset on blanking_off, open SMP perms"},
-    {"version": "v0.1.2.117", "file": "mppt_v0.1.2.117.bin", "date": "2026-02-25", "description": "DFU timeout recovery, display HW reset on blanking_off, open SMP perms"}
+    {"version": "v0.1.2.117", "file": "mppt_v0.1.2.117.bin", "date": "2026-02-25", "description": "DFU timeout recovery, display HW reset on blanking_off, open SMP perms"},
+    {"version": "v0.1.2.118", "file": "mppt_v0.1.2.118.bin", "date": "2026-02-25", "description": "DFU timeout recovery, display HW reset on blanking_off, open SMP perms"}
 ]
