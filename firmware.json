@@ -29,5 +29,6 @@
     {"version": "v0.1.2.107", "file": "mppt_v0.1.2.107.bin", "date": "2026-02-25", "description": "Power savings: GPIO init, disable SERIAL, log default WRN"},
     {"version": "v0.1.2.108", "file": "mppt_v0.1.2.108.bin", "date": "2026-02-25", "description": "Power savings: GPIO init, disable SERIAL, log default WRN"},
     {"version": "v0.1.2.109", "file": "mppt_v0.1.2.109.bin", "date": "2026-02-25", "description": "Power savings: GPIO init, disable SERIAL, log default WRN"},
-    {"version": "v0.1.2.110", "file": "mppt_v0.1.2.110.bin", "date": "2026-02-25", "description": "Power savings: GPIO init, disable SERIAL, log default WRN"}
+    {"version": "v0.1.2.110", "file": "mppt_v0.1.2.110.bin", "date": "2026-02-25", "description": "Power savings: GPIO init, disable SERIAL, log default WRN"},
+    {"version": "v0.1.2.111", "file": "mppt_v0.1.2.111.bin", "date": "2026-02-25", "description": "Power savings: GPIO init, disable SERIAL, log default WRN"}
 ]
