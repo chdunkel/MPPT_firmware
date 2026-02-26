@@ -12,5 +12,6 @@
     {"version": "v0.1.2.130", "file": "mppt_v0.1.2.130.bin", "date": "2026-02-26", "description": "Add dedicated OVERTEMP battery state with SHT40 temp preference"},
     {"version": "v0.1.2.131", "file": "mppt_v0.1.2.131.bin", "date": "2026-02-26", "description": "Add dedicated OVERTEMP battery state with SHT40 temp preference"},
     {"version": "v0.1.2.132", "file": "mppt_v0.1.2.132.bin", "date": "2026-02-26", "description": "Add flash-backed history logger with BLE download support"},
-    {"version": "v0.1.2.133", "file": "mppt_v0.1.2.133.bin", "date": "2026-02-26", "description": "Add flash-backed history logger with BLE download support"}
+    {"version": "v0.1.2.133", "file": "mppt_v0.1.2.133.bin", "date": "2026-02-26", "description": "Add flash-backed history logger with BLE download support"},
+    {"version": "v0.1.2.134", "file": "mppt_v0.1.2.134.bin", "date": "2026-02-26", "description": "Add flash-backed history logger with BLE download support"}
 ]
