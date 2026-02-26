@@ -19,5 +19,6 @@
     {"version": "v0.1.2.137", "file": "mppt_v0.1.2.137.bin", "date": "2026-02-26", "description": "Add flash-backed history logger with BLE download support"},
     {"version": "v0.1.2.138", "file": "mppt_v0.1.2.138.bin", "date": "2026-02-26", "description": "Add flash-backed history logger with BLE download support"},
     {"version": "v0.1.2.139", "file": "mppt_v0.1.2.139.bin", "date": "2026-02-26", "description": "Add flash-backed history logger with BLE download support"},
-    {"version": "v0.1.2.140", "file": "mppt_v0.1.2.140.bin", "date": "2026-02-26", "description": "Add flash-backed history logger with BLE download support"}
+    {"version": "v0.1.2.140", "file": "mppt_v0.1.2.140.bin", "date": "2026-02-26", "description": "Add flash-backed history logger with BLE download support"},
+    {"version": "v0.1.2.141", "file": "mppt_v0.1.2.141.bin", "date": "2026-02-26", "description": "Add flash-backed history logger with BLE download support"}
 ]
