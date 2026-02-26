@@ -8,5 +8,6 @@
     {"version": "v0.1.2.126", "file": "mppt_v0.1.2.126.bin", "date": "2026-02-25", "description": "Add battery cell expert reference docs for INR18650-35E and INR21700-50S"},
     {"version": "v0.1.2.127", "file": "mppt_v0.1.2.127.bin", "date": "2026-02-25", "description": "Add measured capacity label to debug screen"},
     {"version": "v0.1.2.128", "file": "mppt_v0.1.2.128.bin", "date": "2026-02-25", "description": "Fix build warnings: increase FW revision buffer, remove dead display code"},
-    {"version": "v0.1.2.129", "file": "mppt_v0.1.2.129.bin", "date": "2026-02-26", "description": "Clamp SOC coulomb counter at zero to prevent negative charge debt"}
+    {"version": "v0.1.2.129", "file": "mppt_v0.1.2.129.bin", "date": "2026-02-26", "description": "Clamp SOC coulomb counter at zero to prevent negative charge debt"},
+    {"version": "v0.1.2.130", "file": "mppt_v0.1.2.130.bin", "date": "2026-02-26", "description": "Add dedicated OVERTEMP battery state with SHT40 temp preference"}
 ]
