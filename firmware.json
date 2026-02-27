@@ -28,5 +28,6 @@
     {"version": "v0.1.2.146", "file": "mppt_v0.1.2.146.bin", "date": "2026-02-27", "description": "Fix history partition layout and clean up debug logging"},
     {"version": "v0.1.2.147", "file": "mppt_v0.1.2.147.bin", "date": "2026-02-27", "description": "Fix history partition layout and clean up debug logging"},
     {"version": "v0.1.2.148", "file": "mppt_v0.1.2.148.bin", "date": "2026-02-27", "description": "Fix history partition layout and clean up debug logging"},
-    {"version": "v0.1.2.149", "file": "mppt_v0.1.2.149.bin", "date": "2026-02-27", "description": "Remove unused nrf54l15dk partition map"}
+    {"version": "v0.1.2.149", "file": "mppt_v0.1.2.149.bin", "date": "2026-02-27", "description": "Remove unused nrf54l15dk partition map"},
+    {"version": "v0.1.2.150", "file": "mppt_v0.1.2.150.bin", "date": "2026-02-27", "description": "Expand history record to 11 bytes with MPPT/batt power and 0.5% RH encoding"}
 ]
