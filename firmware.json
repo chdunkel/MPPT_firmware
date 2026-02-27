@@ -26,5 +26,6 @@
     {"version": "v0.1.2.144", "file": "mppt_v0.1.2.144.bin", "date": "2026-02-27", "description": "Fix history partition layout and clean up debug logging"},
     {"version": "v0.1.2.145", "file": "mppt_v0.1.2.145.bin", "date": "2026-02-27", "description": "Fix history partition layout and clean up debug logging"},
     {"version": "v0.1.2.146", "file": "mppt_v0.1.2.146.bin", "date": "2026-02-27", "description": "Fix history partition layout and clean up debug logging"},
-    {"version": "v0.1.2.147", "file": "mppt_v0.1.2.147.bin", "date": "2026-02-27", "description": "Fix history partition layout and clean up debug logging"}
+    {"version": "v0.1.2.147", "file": "mppt_v0.1.2.147.bin", "date": "2026-02-27", "description": "Fix history partition layout and clean up debug logging"},
+    {"version": "v0.1.2.148", "file": "mppt_v0.1.2.148.bin", "date": "2026-02-27", "description": "Fix history partition layout and clean up debug logging"}
 ]
