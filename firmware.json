@@ -35,5 +35,6 @@
     {"version": "v0.1.2.153", "file": "mppt_v0.1.2.153.bin", "date": "2026-02-27", "description": "Add MCU die temperature to sensor data pipeline and BT update"},
     {"version": "v0.1.2.154", "file": "mppt_v0.1.2.154.bin", "date": "2026-02-27", "description": "Add MCU die temperature to sensor data pipeline and BT update"},
     {"version": "v0.1.2.155", "file": "mppt_v0.1.2.155.bin", "date": "2026-02-27", "description": "Add MCU die temperature to sensor data pipeline and BT update"},
-    {"version": "v0.1.2.156", "file": "mppt_v0.1.2.156.bin", "date": "2026-02-27", "description": "Replace history download work item with dedicated thread and BLE flow control"}
+    {"version": "v0.1.2.156", "file": "mppt_v0.1.2.156.bin", "date": "2026-02-27", "description": "Replace history download work item with dedicated thread and BLE flow control"},
+    {"version": "v0.1.2.157", "file": "mppt_v0.1.2.157.bin", "date": "2026-02-27", "description": "Fix battery set_type not applying temp limits to state machine"}
 ]
