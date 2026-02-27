@@ -33,5 +33,6 @@
     {"version": "v0.1.2.151", "file": "mppt_v0.1.2.151.bin", "date": "2026-02-27", "description": "Expand history record to 11 bytes with MPPT/batt power and 0.5% RH encoding"},
     {"version": "v0.1.2.152", "file": "mppt_v0.1.2.152.bin", "date": "2026-02-27", "description": "Add MCU die temperature to sensor data pipeline and BT update"},
     {"version": "v0.1.2.153", "file": "mppt_v0.1.2.153.bin", "date": "2026-02-27", "description": "Add MCU die temperature to sensor data pipeline and BT update"},
-    {"version": "v0.1.2.154", "file": "mppt_v0.1.2.154.bin", "date": "2026-02-27", "description": "Add MCU die temperature to sensor data pipeline and BT update"}
+    {"version": "v0.1.2.154", "file": "mppt_v0.1.2.154.bin", "date": "2026-02-27", "description": "Add MCU die temperature to sensor data pipeline and BT update"},
+    {"version": "v0.1.2.155", "file": "mppt_v0.1.2.155.bin", "date": "2026-02-27", "description": "Add MCU die temperature to sensor data pipeline and BT update"}
 ]
