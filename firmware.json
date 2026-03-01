@@ -46,5 +46,6 @@
     {"version": "v0.1.2.164", "file": "mppt_v0.1.2.164.bin", "date": "2026-03-01", "description": "Fix battery set_type not applying temp limits to state machine"},
     {"version": "v0.1.2.165", "file": "mppt_v0.1.2.165.bin", "date": "2026-03-01", "description": "Fix battery set_type not applying temp limits to state machine"},
     {"version": "v0.1.2.166", "file": "mppt_v0.1.2.166.bin", "date": "2026-03-01", "description": "Fix battery set_type not applying temp limits to state machine"},
-    {"version": "v0.1.2.167", "file": "mppt_v0.1.2.167.bin", "date": "2026-03-01", "description": "Fix battery set_type not applying temp limits to state machine"}
+    {"version": "v0.1.2.167", "file": "mppt_v0.1.2.167.bin", "date": "2026-03-01", "description": "Fix battery set_type not applying temp limits to state machine"},
+    {"version": "v0.1.2.168", "file": "mppt_v0.1.2.168.bin", "date": "2026-03-01", "description": "Fix battery set_type not applying temp limits to state machine"}
 ]
