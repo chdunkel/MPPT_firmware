@@ -48,5 +48,6 @@
     {"version": "v0.1.2.166", "file": "mppt_v0.1.2.166.bin", "date": "2026-03-01", "description": "Fix battery set_type not applying temp limits to state machine"},
     {"version": "v0.1.2.167", "file": "mppt_v0.1.2.167.bin", "date": "2026-03-01", "description": "Fix battery set_type not applying temp limits to state machine"},
     {"version": "v0.1.2.168", "file": "mppt_v0.1.2.168.bin", "date": "2026-03-01", "description": "Fix battery set_type not applying temp limits to state machine"},
-    {"version": "v0.1.2.169", "file": "mppt_v0.1.2.169.bin", "date": "2026-03-02", "description": "Move device name into primary ad, drop states from mfg data"}
+    {"version": "v0.1.2.169", "file": "mppt_v0.1.2.169.bin", "date": "2026-03-02", "description": "Move device name into primary ad, drop states from mfg data"},
+    {"version": "v0.1.2.170", "file": "mppt_v0.1.2.170.bin", "date": "2026-03-02", "description": "Move device name into primary ad, drop states from mfg data"}
 ]
