@@ -54,5 +54,6 @@
     {"version": "v0.1.2.172", "file": "mppt_v0.1.2.172.bin", "date": "2026-03-03", "description": "Remove voltage-based SOC discrepancy correction, add coulomb-counter debug telemetry"},
     {"version": "v0.1.2.173", "file": "mppt_v0.1.2.173.bin", "date": "2026-03-03", "description": "Remove voltage-based SOC discrepancy correction, add coulomb-counter debug telemetry"},
     {"version": "v0.1.2.174", "file": "mppt_v0.1.2.174.bin", "date": "2026-03-03", "description": "Clamp energy counter at capacity ceiling to prevent SOC overshoot after full anchor"},
-    {"version": "v0.1.2.175", "file": "mppt_v0.1.2.175.bin", "date": "2026-03-05", "description": "Clamp energy counter at capacity ceiling to prevent SOC overshoot after full anchor"}
+    {"version": "v0.1.2.175", "file": "mppt_v0.1.2.175.bin", "date": "2026-03-05", "description": "Clamp energy counter at capacity ceiling to prevent SOC overshoot after full anchor"},
+    {"version": "v0.1.2.176", "file": "mppt_v0.1.2.176.bin", "date": "2026-03-05", "description": "Clamp energy counter at capacity ceiling to prevent SOC overshoot after full anchor"}
 ]
