@@ -57,5 +57,6 @@
     {"version": "v0.1.2.175", "file": "mppt_v0.1.2.175.bin", "date": "2026-03-05", "description": "Clamp energy counter at capacity ceiling to prevent SOC overshoot after full anchor"},
     {"version": "v0.1.2.176", "file": "mppt_v0.1.2.176.bin", "date": "2026-03-05", "description": "Clamp energy counter at capacity ceiling to prevent SOC overshoot after full anchor"},
     {"version": "v0.1.2.177", "file": "mppt_v0.1.2.177.bin", "date": "2026-03-05", "description": "Upgrade history to v4 (uint16 SOC x100), add SLEEP self-restart on voltage drop"},
-    {"version": "v0.1.2.178", "file": "mppt_v0.1.2.178.bin", "date": "2026-03-05", "description": "Upgrade history to v4 (uint16 SOC x100), add SLEEP self-restart on voltage drop"}
+    {"version": "v0.1.2.178", "file": "mppt_v0.1.2.178.bin", "date": "2026-03-05", "description": "Upgrade history to v4 (uint16 SOC x100), add SLEEP self-restart on voltage drop"},
+    {"version": "v0.1.2.179", "file": "mppt_v0.1.2.179.bin", "date": "2026-03-05", "description": "Upgrade history to v4 (uint16 SOC x100), add SLEEP self-restart on voltage drop"}
 ]
