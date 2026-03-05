@@ -59,5 +59,6 @@
     {"version": "v0.1.2.177", "file": "mppt_v0.1.2.177.bin", "date": "2026-03-05", "description": "Upgrade history to v4 (uint16 SOC x100), add SLEEP self-restart on voltage drop"},
     {"version": "v0.1.2.178", "file": "mppt_v0.1.2.178.bin", "date": "2026-03-05", "description": "Upgrade history to v4 (uint16 SOC x100), add SLEEP self-restart on voltage drop"},
     {"version": "v0.1.2.179", "file": "mppt_v0.1.2.179.bin", "date": "2026-03-05", "description": "Upgrade history to v4 (uint16 SOC x100), add SLEEP self-restart on voltage drop"},
-    {"version": "v0.1.2.180", "file": "mppt_v0.1.2.180.bin", "date": "2026-03-06", "description": "Upgrade history to v4 (uint16 SOC x100), add SLEEP self-restart on voltage drop"}
+    {"version": "v0.1.2.180", "file": "mppt_v0.1.2.180.bin", "date": "2026-03-06", "description": "Upgrade history to v4 (uint16 SOC x100), add SLEEP self-restart on voltage drop"},
+    {"version": "v0.1.2.181", "file": "mppt_v0.1.2.181.bin", "date": "2026-03-06", "description": "Upgrade history to v4 (uint16 SOC x100), add SLEEP self-restart on voltage drop"}
 ]
