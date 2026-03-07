@@ -67,5 +67,6 @@
     {"version": "v0.1.2.185", "file": "mppt_v0.1.2.185.bin", "date": "2026-03-06", "description": "Upgrade history to v4 (uint16 SOC x100), add SLEEP self-restart on voltage drop"},
     {"version": "v0.1.2.186", "file": "mppt_v0.1.2.186.bin", "date": "2026-03-06", "description": "Prevent charging restart when battery SM is in SLEEP (charge complete)"},
     {"version": "v0.1.2.187", "file": "mppt_v0.1.2.187.bin", "date": "2026-03-06", "description": "Prevent charging restart when battery SM is in SLEEP (charge complete)"},
-    {"version": "v0.1.2.188", "file": "mppt_v0.1.2.188.bin", "date": "2026-03-07", "description": "Prevent charging restart when battery SM is in SLEEP (charge complete)"}
+    {"version": "v0.1.2.188", "file": "mppt_v0.1.2.188.bin", "date": "2026-03-07", "description": "Prevent charging restart when battery SM is in SLEEP (charge complete)"},
+    {"version": "v0.1.2.189", "file": "mppt_v0.1.2.189.bin", "date": "2026-03-07", "description": "Prevent charging restart when battery SM is in SLEEP (charge complete)"}
 ]
