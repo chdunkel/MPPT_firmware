@@ -69,5 +69,6 @@
     {"version": "v0.1.2.187", "file": "mppt_v0.1.2.187.bin", "date": "2026-03-06", "description": "Prevent charging restart when battery SM is in SLEEP (charge complete)"},
     {"version": "v0.1.2.188", "file": "mppt_v0.1.2.188.bin", "date": "2026-03-07", "description": "Prevent charging restart when battery SM is in SLEEP (charge complete)"},
     {"version": "v0.1.2.189", "file": "mppt_v0.1.2.189.bin", "date": "2026-03-07", "description": "Prevent charging restart when battery SM is in SLEEP (charge complete)"},
-    {"version": "v0.1.2.190", "file": "mppt_v0.1.2.190.bin", "date": "2026-03-07", "description": "Prevent charging restart when battery SM is in SLEEP (charge complete)"}
+    {"version": "v0.1.2.190", "file": "mppt_v0.1.2.190.bin", "date": "2026-03-07", "description": "Prevent charging restart when battery SM is in SLEEP (charge complete)"},
+    {"version": "v0.1.2.191", "file": "mppt_v0.1.2.191.bin", "date": "2026-03-10", "description": "Reset SOC capacity on battery type change, pulse IP2366 EN on boot/button, pre-seed display capacity"}
 ]
