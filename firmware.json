@@ -73,5 +73,6 @@
     {"version": "v0.1.2.191", "file": "mppt_v0.1.2.191.bin", "date": "2026-03-10", "description": "Reset SOC capacity on battery type change, pulse IP2366 EN on boot/button, pre-seed display capacity"},
     {"version": "v0.1.2.192", "file": "mppt_v0.1.2.192.bin", "date": "2026-03-10", "description": "Reset SOC capacity on battery type change, pulse IP2366 EN on boot/button, pre-seed display capacity"},
     {"version": "v0.1.2.193", "file": "mppt_v0.1.2.193.bin", "date": "2026-03-13", "description": "Fix UTC epoch underflow after reboot when uptime_at_sync is stale"},
-    {"version": "v0.1.2.194", "file": "mppt_v0.1.2.194.bin", "date": "2026-03-13", "description": "Add BLE cell configuration command and expose cell counts in detail payload"}
+    {"version": "v0.1.2.194", "file": "mppt_v0.1.2.194.bin", "date": "2026-03-13", "description": "Add BLE cell configuration command and expose cell counts in detail payload"},
+    {"version": "v0.1.2.195", "file": "mppt_v0.1.2.195.bin", "date": "2026-03-13", "description": "Add BLE LED enable/disable command with persistent setting"}
 ]
