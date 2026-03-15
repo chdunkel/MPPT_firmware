@@ -78,5 +78,6 @@
     {"version": "v0.1.2.196", "file": "mppt_v0.1.2.196.bin", "date": "2026-03-14", "description": "Add BLE LED enable/disable command with persistent setting"},
     {"version": "v0.1.2.197", "file": "mppt_v0.1.2.197.bin", "date": "2026-03-15", "description": "Scale ch2/ch3 BLE power to 2 mW LSB to support up to 64 W"},
     {"version": "v0.1.2.198", "file": "mppt_v0.1.2.198.bin", "date": "2026-03-15", "description": "Scale ch2/ch3 BLE power to 2 mW LSB to support up to 64 W"},
-    {"version": "v0.1.2.199", "file": "mppt_v0.1.2.199.bin", "date": "2026-03-15", "description": "Scale ch2/ch3 BLE power to 2 mW LSB to support up to 64 W"}
+    {"version": "v0.1.2.199", "file": "mppt_v0.1.2.199.bin", "date": "2026-03-15", "description": "Scale ch2/ch3 BLE power to 2 mW LSB to support up to 64 W"},
+    {"version": "v0.1.2.200", "file": "mppt_v0.1.2.200.bin", "date": "2026-03-15", "description": "Refactor display driver build, switch MCUboot to SWAP_USING_MOVE, bump to v0.1.2.200"}
 ]
