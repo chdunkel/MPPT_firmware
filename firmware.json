@@ -83,5 +83,6 @@
     {"version": "v0.1.2.201", "file": "mppt_v0.1.2.201.bin", "date": "2026-03-15", "description": "Refactor display driver build, switch MCUboot to SWAP_USING_MOVE, bump to v0.1.2.200"},
     {"version": "v0.1.2.202", "file": "mppt_v0.1.2.202.bin", "date": "2026-03-15", "description": "Remove misconfigured display module.yml"},
     {"version": "v0.1.2.203", "file": "mppt_v0.1.2.203.bin", "date": "2026-03-17", "description": "Reduce consumer display SoC to 1 decimal place"},
-    {"version": "v0.1.2.204", "file": "mppt_v0.1.2.204.bin", "date": "2026-03-17", "description": "Reduce consumer display SoC to 1 decimal place"}
+    {"version": "v0.1.2.204", "file": "mppt_v0.1.2.204.bin", "date": "2026-03-17", "description": "Reduce consumer display SoC to 1 decimal place"},
+    {"version": "v0.1.2.205", "file": "mppt_v0.1.2.205.bin", "date": "2026-03-17", "description": "Switch to OpenSans-CondBold_72 font, fix SoC display to 2 decimal places, remove duplicate battery label"}
 ]
