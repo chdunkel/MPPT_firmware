@@ -89,5 +89,6 @@
     {"version": "v0.1.2.207", "file": "mppt_v0.1.2.207.bin", "date": "2026-03-21", "description": "Fix charge-complete transition: go to IDLE directly when no USB load"},
     {"version": "v0.1.2.208", "file": "mppt_v0.1.2.208.bin", "date": "2026-03-23", "description": "Add FLPR PWM migration plan, update specialist doc with proven test results, declare ip2366_i2c_ready extern"},
     {"version": "v0.1.2.209", "file": "mppt_v0.1.2.209.bin", "date": "2026-03-23", "description": "Replace NRF_PWM20 with FLPR coprocessor PWM for TPS51604 gate driver"},
-    {"version": "v0.1.2.210", "file": "mppt_v0.1.2.210.bin", "date": "2026-03-23", "description": "Replace NRF_PWM20 with FLPR coprocessor PWM for TPS51604 gate driver"}
+    {"version": "v0.1.2.210", "file": "mppt_v0.1.2.210.bin", "date": "2026-03-23", "description": "Replace NRF_PWM20 with FLPR coprocessor PWM for TPS51604 gate driver"},
+    {"version": "v0.1.2.211", "file": "mppt_v0.1.2.211.bin", "date": "2026-03-23", "description": "Replace NRF_PWM20 with FLPR coprocessor PWM for TPS51604 gate driver"}
 ]
