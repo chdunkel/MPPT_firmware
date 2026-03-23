@@ -92,5 +92,6 @@
     {"version": "v0.1.2.210", "file": "mppt_v0.1.2.210.bin", "date": "2026-03-23", "description": "Replace NRF_PWM20 with FLPR coprocessor PWM for TPS51604 gate driver"},
     {"version": "v0.1.2.211", "file": "mppt_v0.1.2.211.bin", "date": "2026-03-23", "description": "Replace NRF_PWM20 with FLPR coprocessor PWM for TPS51604 gate driver"},
     {"version": "v0.1.2.212", "file": "mppt_v0.1.2.212.bin", "date": "2026-03-24", "description": "Move push_firmware to sysbuild level so it runs after MCUboot signing"},
-    {"version": "v0.1.2.213", "file": "mppt_v0.1.2.213.bin", "date": "2026-03-24", "description": "Move push_firmware to sysbuild level so it runs after MCUboot signing"}
+    {"version": "v0.1.2.213", "file": "mppt_v0.1.2.213.bin", "date": "2026-03-24", "description": "Move push_firmware to sysbuild level so it runs after MCUboot signing"},
+    {"version": "v0.1.2.214", "file": "mppt_v0.1.2.214.bin", "date": "2026-03-24", "description": "Move push_firmware to sysbuild level so it runs after MCUboot signing"}
 ]
