@@ -86,5 +86,6 @@
     {"version": "v0.1.2.204", "file": "mppt_v0.1.2.204.bin", "date": "2026-03-17", "description": "Reduce consumer display SoC to 1 decimal place"},
     {"version": "v0.1.2.205", "file": "mppt_v0.1.2.205.bin", "date": "2026-03-17", "description": "Switch to OpenSans-CondBold_72 font, fix SoC display to 2 decimal places, remove duplicate battery label"},
     {"version": "v0.1.2.206", "file": "mppt_v0.1.2.206.bin", "date": "2026-03-21", "description": "Add IP2366 charger IC settings: low-battery cutoff, max output power, source PDO flags"},
-    {"version": "v0.1.2.207", "file": "mppt_v0.1.2.207.bin", "date": "2026-03-21", "description": "Fix charge-complete transition: go to IDLE directly when no USB load"}
+    {"version": "v0.1.2.207", "file": "mppt_v0.1.2.207.bin", "date": "2026-03-21", "description": "Fix charge-complete transition: go to IDLE directly when no USB load"},
+    {"version": "v0.1.2.208", "file": "mppt_v0.1.2.208.bin", "date": "2026-03-23", "description": "Add FLPR PWM migration plan, update specialist doc with proven test results, declare ip2366_i2c_ready extern"}
 ]
