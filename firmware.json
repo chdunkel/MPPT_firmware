@@ -103,5 +103,6 @@
     {"version": "v0.1.2.221", "file": "mppt_v0.1.2.221.bin", "date": "2026-03-24", "description": "Add BLE-configurable MPPT switching frequency (30ÔÇô300 kHz)"},
     {"version": "v0.1.2.222", "file": "mppt_v0.1.2.222.bin", "date": "2026-03-24", "description": "Add BLE-configurable MPPT switching frequency (30ÔÇô300 kHz)"},
     {"version": "v0.1.2.223", "file": "mppt_v0.1.2.223.bin", "date": "2026-03-24", "description": "Add BLE-configurable MPPT switching frequency (30ÔÇô300 kHz)"},
-    {"version": "v0.1.2.224", "file": "mppt_v0.1.2.224.bin", "date": "2026-03-24", "description": "Add BLE-configurable MPPT switching frequency (30ÔÇô300 kHz)"}
+    {"version": "v0.1.2.224", "file": "mppt_v0.1.2.224.bin", "date": "2026-03-24", "description": "Add BLE-configurable MPPT switching frequency (30ÔÇô300 kHz)"},
+    {"version": "v0.1.2.225", "file": "mppt_v0.1.2.225.bin", "date": "2026-03-24", "description": "Add BLE-configurable MPPT switching frequency (30ÔÇô300 kHz)"}
 ]
