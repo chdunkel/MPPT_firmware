@@ -98,5 +98,6 @@
     {"version": "v0.1.2.216", "file": "mppt_v0.1.2.216.bin", "date": "2026-03-24", "description": "Fix FLPR PWM glitch: disable interrupts, move mailbox poll to OFF phase"},
     {"version": "v0.1.2.217", "file": "mppt_v0.1.2.217.bin", "date": "2026-03-24", "description": "Add OTA-transparent FLPR firmware delivery"},
     {"version": "v0.1.2.218", "file": "mppt_v0.1.2.218.bin", "date": "2026-03-24", "description": "Add switching frequency to debug display"},
-    {"version": "v0.1.2.219", "file": "mppt_v0.1.2.219.bin", "date": "2026-03-24", "description": "Move fSW label to right column below PAC (y=110)"}
+    {"version": "v0.1.2.219", "file": "mppt_v0.1.2.219.bin", "date": "2026-03-24", "description": "Move fSW label to right column below PAC (y=110)"},
+    {"version": "v0.1.2.220", "file": "mppt_v0.1.2.220.bin", "date": "2026-03-24", "description": "Move fSW label to right column below PAC (y=110)"}
 ]
