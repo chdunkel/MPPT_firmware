@@ -100,5 +100,6 @@
     {"version": "v0.1.2.218", "file": "mppt_v0.1.2.218.bin", "date": "2026-03-24", "description": "Add switching frequency to debug display"},
     {"version": "v0.1.2.219", "file": "mppt_v0.1.2.219.bin", "date": "2026-03-24", "description": "Move fSW label to right column below PAC (y=110)"},
     {"version": "v0.1.2.220", "file": "mppt_v0.1.2.220.bin", "date": "2026-03-24", "description": "Move fSW label to right column below PAC (y=110)"},
-    {"version": "v0.1.2.221", "file": "mppt_v0.1.2.221.bin", "date": "2026-03-24", "description": "Add BLE-configurable MPPT switching frequency (30ÔÇô300 kHz)"}
+    {"version": "v0.1.2.221", "file": "mppt_v0.1.2.221.bin", "date": "2026-03-24", "description": "Add BLE-configurable MPPT switching frequency (30ÔÇô300 kHz)"},
+    {"version": "v0.1.2.222", "file": "mppt_v0.1.2.222.bin", "date": "2026-03-24", "description": "Add BLE-configurable MPPT switching frequency (30ÔÇô300 kHz)"}
 ]
