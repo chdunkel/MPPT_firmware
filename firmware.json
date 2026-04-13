@@ -109,5 +109,6 @@
     {"version": "v0.1.2.227", "file": "mppt_v0.1.2.227.bin", "date": "2026-03-24", "description": "Add BLE-configurable MPPT switching frequency (30ÔÇô300 kHz)"},
     {"version": "v0.1.2.228", "file": "mppt_v0.1.2.228.bin", "date": "2026-03-24", "description": "Add BLE-configurable MPPT switching frequency (30ÔÇô300 kHz)"},
     {"version": "v0.1.2.229", "file": "mppt_v0.1.2.229.bin", "date": "2026-04-12", "description": "Slow FLPR idle poll from 1 ms to 10 ms"},
-    {"version": "v0.1.2.230", "file": "mppt_v0.1.2.230.bin", "date": "2026-04-13", "description": "Add mppt_namche board variant and unify FLPR PWM header"}
+    {"version": "v0.1.2.230", "file": "mppt_v0.1.2.230.bin", "date": "2026-04-13", "description": "Add mppt_namche board variant and unify FLPR PWM header"},
+    {"version": "v0.1.2.231", "file": "mppt_v0.1.2.231.bin", "date": "2026-04-13", "description": "Finalize BST refresh to 1 ┬Ás / 10 ms after sweep"}
 ]
