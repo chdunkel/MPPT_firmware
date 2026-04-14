@@ -112,5 +112,6 @@
     {"version": "v0.1.2.230", "file": "mppt_v0.1.2.230.bin", "date": "2026-04-13", "description": "Add mppt_namche board variant and unify FLPR PWM header"},
     {"version": "v0.1.2.231", "file": "mppt_v0.1.2.231.bin", "date": "2026-04-13", "description": "Finalize BST refresh to 1 ┬Ás / 10 ms after sweep"},
     {"version": "v0.1.2.232", "file": "mppt_v0.1.2.232.bin", "date": "2026-04-14", "description": "Finalize BST refresh to 1 ┬Ás / 10 ms after sweep"},
-    {"version": "v0.1.2.231", "file": "mppt_v0.1.2.231.bin", "date": "2026-04-14", "description": "Colorize RTT log output for Namche traces"}
+    {"version": "v0.1.2.231", "file": "mppt_v0.1.2.231.bin", "date": "2026-04-14", "description": "Colorize RTT log output for Namche traces"},
+    {"version": "v0.1.2.232", "file": "mppt_v0.1.2.232.bin", "date": "2026-04-14", "description": "Colorize RTT log output for Namche traces"}
 ]
