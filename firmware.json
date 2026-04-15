@@ -119,5 +119,6 @@
     {"version": "v0.1.2.235", "file": "mppt_v0.1.2.235.bin", "date": "2026-04-15", "description": "PAC1954: add alert config, accum limits, per-channel accum wrappers"},
     {"version": "v0.1.2.236", "file": "mppt_v0.1.2.236.bin", "date": "2026-04-15", "description": "PAC1954: add REFRESH, CTRL/NEG_PWR_FSR/SLOW get-set, AVG reads, device ID"},
     {"version": "v0.1.2.234", "file": "mppt_v0.1.2.234.bin", "date": "2026-04-15", "description": "PAC1954: implement instantaneous per-channel getters"},
-    {"version": "v0.1.2.235", "file": "mppt_v0.1.2.235.bin", "date": "2026-04-15", "description": "PAC1954: implement instantaneous per-channel getters"}
+    {"version": "v0.1.2.235", "file": "mppt_v0.1.2.235.bin", "date": "2026-04-15", "description": "PAC1954: implement instantaneous per-channel getters"},
+    {"version": "v0.1.2.236", "file": "mppt_v0.1.2.236.bin", "date": "2026-04-15", "description": "board config: consolidate PAC channel/shunt/solar-detect into factory_defaults"}
 ]
