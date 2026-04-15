@@ -117,5 +117,6 @@
     {"version": "v0.1.2.233", "file": "mppt_v0.1.2.233.bin", "date": "2026-04-15", "description": "BB arbiter: gate extreme-mode commits on P_in"},
     {"version": "v0.1.2.234", "file": "mppt_v0.1.2.234.bin", "date": "2026-04-15", "description": "PAC1954: polarity cache, sample-rate helper, double-precision coulomb math"},
     {"version": "v0.1.2.235", "file": "mppt_v0.1.2.235.bin", "date": "2026-04-15", "description": "PAC1954: add alert config, accum limits, per-channel accum wrappers"},
-    {"version": "v0.1.2.236", "file": "mppt_v0.1.2.236.bin", "date": "2026-04-15", "description": "PAC1954: add REFRESH, CTRL/NEG_PWR_FSR/SLOW get-set, AVG reads, device ID"}
+    {"version": "v0.1.2.236", "file": "mppt_v0.1.2.236.bin", "date": "2026-04-15", "description": "PAC1954: add REFRESH, CTRL/NEG_PWR_FSR/SLOW get-set, AVG reads, device ID"},
+    {"version": "v0.1.2.234", "file": "mppt_v0.1.2.234.bin", "date": "2026-04-15", "description": "PAC1954: implement instantaneous per-channel getters"}
 ]
