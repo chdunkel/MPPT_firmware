@@ -125,5 +125,6 @@
     {"version": "v0.1.2.238", "file": "mppt_v0.1.2.238.bin", "date": "2026-04-26", "description": "battery specs: add Nubia RedMagic 9 Pro 2S Li-poly cell (preliminary)"},
     {"version": "v0.1.2.239", "file": "mppt_v0.1.2.239.bin", "date": "2026-04-26", "description": "battery specs: add Nubia RedMagic 9 Pro 2S Li-poly cell (preliminary)"},
     {"version": "v0.1.2.240", "file": "mppt_v0.1.2.240.bin", "date": "2026-04-26", "description": "battery specs: add Nubia RedMagic 9 Pro 2S Li-poly cell (preliminary)"},
-    {"version": "v0.1.2.241", "file": "mppt_v0.1.2.241.bin", "date": "2026-04-26", "description": "Bring up mppt_namche BB converter: forward power flow confirmed"}
+    {"version": "v0.1.2.241", "file": "mppt_v0.1.2.241.bin", "date": "2026-04-26", "description": "Bring up mppt_namche BB converter: forward power flow confirmed"},
+    {"version": "v0.1.2.242", "file": "mppt_v0.1.2.242.bin", "date": "2026-04-26", "description": "Apply FLPR_PWM_Test optimizations: linear loop_oh, -O2, 3-word mbox read"}
 ]
