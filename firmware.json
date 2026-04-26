@@ -131,5 +131,6 @@
     {"version": "v0.1.2.244", "file": "mppt_v0.1.2.244.bin", "date": "2026-04-26", "description": "Add mppt_namche board variant and unify FLPR PWM header"},
     {"version": "v0.1.2.245", "file": "mppt_v0.1.2.245.bin", "date": "2026-04-26", "description": "Fix v9 MPPT display starvation: gate per-tick tracker trace to namche"},
     {"version": "v0.1.2.246", "file": "mppt_v0.1.2.246.bin", "date": "2026-04-26", "description": "Fix v9 charging regression: restore mailbox enable/updated byte offsets"},
-    {"version": "v0.1.2.247", "file": "mppt_v0.1.2.247.bin", "date": "2026-04-26", "description": "FLPR PWM specialist doc: align with datasheet v1.0 (4503_018)"}
+    {"version": "v0.1.2.247", "file": "mppt_v0.1.2.247.bin", "date": "2026-04-26", "description": "FLPR PWM specialist doc: align with datasheet v1.0 (4503_018)"},
+    {"version": "v0.1.2.248", "file": "mppt_v0.1.2.248.bin", "date": "2026-04-26", "description": "FLPR PWM specialist doc: align with datasheet v1.0 (4503_018)"}
 ]
