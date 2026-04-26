@@ -134,5 +134,6 @@
     {"version": "v0.1.2.247", "file": "mppt_v0.1.2.247.bin", "date": "2026-04-26", "description": "FLPR PWM specialist doc: align with datasheet v1.0 (4503_018)"},
     {"version": "v0.1.2.248", "file": "mppt_v0.1.2.248.bin", "date": "2026-04-26", "description": "FLPR PWM specialist doc: align with datasheet v1.0 (4503_018)"},
     {"version": "v0.1.2.249", "file": "mppt_v0.1.2.249.bin", "date": "2026-04-26", "description": "FLPR PWM specialist doc: align with datasheet v1.0 (4503_018)"},
-    {"version": "v0.1.2.250", "file": "mppt_v0.1.2.250.bin", "date": "2026-04-26", "description": "Correct FLPR specialist doc RAM partition details"}
+    {"version": "v0.1.2.250", "file": "mppt_v0.1.2.250.bin", "date": "2026-04-26", "description": "Correct FLPR specialist doc RAM partition details"},
+    {"version": "v0.1.2.251", "file": "mppt_v0.1.2.251.bin", "date": "2026-04-27", "description": "Merge branch 'flpr-pwm-tps51604' into main"}
 ]
