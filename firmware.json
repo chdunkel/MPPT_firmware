@@ -128,5 +128,6 @@
     {"version": "v0.1.2.241", "file": "mppt_v0.1.2.241.bin", "date": "2026-04-26", "description": "Bring up mppt_namche BB converter: forward power flow confirmed"},
     {"version": "v0.1.2.242", "file": "mppt_v0.1.2.242.bin", "date": "2026-04-26", "description": "Apply FLPR_PWM_Test optimizations: linear loop_oh, -O2, 3-word mbox read"},
     {"version": "v0.1.2.243", "file": "mppt_v0.1.2.243.bin", "date": "2026-04-26", "description": "Slow FLPR idle poll from 1 ms to 10 ms"},
-    {"version": "v0.1.2.244", "file": "mppt_v0.1.2.244.bin", "date": "2026-04-26", "description": "Add mppt_namche board variant and unify FLPR PWM header"}
+    {"version": "v0.1.2.244", "file": "mppt_v0.1.2.244.bin", "date": "2026-04-26", "description": "Add mppt_namche board variant and unify FLPR PWM header"},
+    {"version": "v0.1.2.245", "file": "mppt_v0.1.2.245.bin", "date": "2026-04-26", "description": "Fix v9 MPPT display starvation: gate per-tick tracker trace to namche"}
 ]
