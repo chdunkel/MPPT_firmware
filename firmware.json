@@ -166,5 +166,6 @@
     {"version": "v0.1.3.23", "file": "mppt_v0.1.3.23.bin", "date": "2026-04-27", "description": "prj.conf: bump MPSL flash-sync timeout to 100 ms to fix OTA reliability"},
     {"version": "v0.1.3.24", "file": "mppt_v0.1.3.24.bin", "date": "2026-04-27", "description": "shunt cal: in-field 4-channel calibration + OTA RRAM-sync fix"},
     {"version": "v0.1.3.25", "file": "mppt_v0.1.3.25.bin", "date": "2026-04-27", "description": "shunt cal: in-field 4-channel calibration + OTA RRAM-sync fix"},
-    {"version": "v0.1.3.26", "file": "mppt_v0.1.3.26.bin", "date": "2026-04-27", "description": "shunt cal: in-field 4-channel calibration + OTA RRAM-sync fix"}
+    {"version": "v0.1.3.26", "file": "mppt_v0.1.3.26.bin", "date": "2026-04-27", "description": "shunt cal: in-field 4-channel calibration + OTA RRAM-sync fix"},
+    {"version": "v0.1.3.27", "file": "mppt_v0.1.3.27.bin", "date": "2026-04-27", "description": "shunt cal: in-field 4-channel calibration + OTA RRAM-sync fix"}
 ]
