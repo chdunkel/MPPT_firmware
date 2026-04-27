@@ -138,5 +138,6 @@
     {"version": "v0.1.2.251", "file": "mppt_v0.1.2.251.bin", "date": "2026-04-27", "description": "Merge branch 'flpr-pwm-tps51604' into main"},
     {"version": "v0.1.2.252", "file": "mppt_v0.1.2.252.bin", "date": "2026-04-27", "description": "Merge branch 'flpr-pwm-tps51604' into main"},
     {"version": "v0.1.2.253", "file": "mppt_v0.1.2.253.bin", "date": "2026-04-27", "description": "batteries: drop 45┬░C-only BAK/EVE cells, sort by date added"},
-    {"version": "v0.1.2.254", "file": "mppt_v0.1.2.254.bin", "date": "2026-04-27", "description": "batteries: drop 45┬░C-only BAK/EVE cells, sort by date added"}
+    {"version": "v0.1.2.254", "file": "mppt_v0.1.2.254.bin", "date": "2026-04-27", "description": "batteries: drop 45┬░C-only BAK/EVE cells, sort by date added"},
+    {"version": "v0.1.2.255", "file": "mppt_v0.1.2.255.bin", "date": "2026-04-27", "description": "batteries: drop 45┬░C-only BAK/EVE cells, sort by date added"}
 ]
