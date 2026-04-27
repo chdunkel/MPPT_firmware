@@ -151,5 +151,6 @@
     {"version": "v0.1.3.8", "file": "mppt_v0.1.3.8.bin", "date": "2026-04-27", "description": "PAC1954 reverse-current alert + FLPR emergency PWM kill via VEVIF21"},
     {"version": "v0.1.3.9", "file": "mppt_v0.1.3.9.bin", "date": "2026-04-27", "description": "PAC1954 reverse-current alert + FLPR emergency PWM kill via VEVIF21"},
     {"version": "v0.1.3.10", "file": "mppt_v0.1.3.10.bin", "date": "2026-04-27", "description": "PAC1954 reverse-current alert + FLPR emergency PWM kill via VEVIF21"},
-    {"version": "v0.1.3.11", "file": "mppt_v0.1.3.11.bin", "date": "2026-04-27", "description": "flpr dts: silence avoid_unnecessary_addr_size warning on cpuflpr_rram"}
+    {"version": "v0.1.3.11", "file": "mppt_v0.1.3.11.bin", "date": "2026-04-27", "description": "flpr dts: silence avoid_unnecessary_addr_size warning on cpuflpr_rram"},
+    {"version": "v0.1.3.12", "file": "mppt_v0.1.3.12.bin", "date": "2026-04-27", "description": "sysbuild: regenerate merged.hex post-build; enable IMG_SLOT_INFO"}
 ]
