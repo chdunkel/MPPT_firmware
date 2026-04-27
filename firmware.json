@@ -143,5 +143,6 @@
     {"version": "v0.1.3.0", "file": "mppt_v0.1.3.0.bin", "date": "2026-04-27", "description": "batteries: drop 45┬░C-only BAK/EVE cells, sort by date added"},
     {"version": "v0.1.3.1", "file": "mppt_v0.1.3.1.bin", "date": "2026-04-27", "description": "batteries: add wire-format stable_id to decouple BLE from enum order"},
     {"version": "v0.1.3.2", "file": "mppt_v0.1.3.2.bin", "date": "2026-04-27", "description": "batteries: add wire-format stable_id to decouple BLE from enum order"},
-    {"version": "v0.1.3.3", "file": "mppt_v0.1.3.3.bin", "date": "2026-04-27", "description": "batteries: add wire-format stable_id to decouple BLE from enum order"}
+    {"version": "v0.1.3.3", "file": "mppt_v0.1.3.3.bin", "date": "2026-04-27", "description": "batteries: add wire-format stable_id to decouple BLE from enum order"},
+    {"version": "v0.1.3.4", "file": "mppt_v0.1.3.4.bin", "date": "2026-04-27", "description": "batteries: add wire-format stable_id to decouple BLE from enum order"}
 ]
