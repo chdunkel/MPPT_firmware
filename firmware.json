@@ -148,5 +148,6 @@
     {"version": "v0.1.3.5", "file": "mppt_v0.1.3.5.bin", "date": "2026-04-27", "description": "Migrate from Partition Manager to DTS-based fixed-partitions"},
     {"version": "v0.1.3.6", "file": "mppt_v0.1.3.6.bin", "date": "2026-04-27", "description": "PAC1954 reverse-current alert + FLPR emergency PWM kill via VEVIF21"},
     {"version": "v0.1.3.7", "file": "mppt_v0.1.3.7.bin", "date": "2026-04-27", "description": "PAC1954 reverse-current alert + FLPR emergency PWM kill via VEVIF21"},
-    {"version": "v0.1.3.8", "file": "mppt_v0.1.3.8.bin", "date": "2026-04-27", "description": "PAC1954 reverse-current alert + FLPR emergency PWM kill via VEVIF21"}
+    {"version": "v0.1.3.8", "file": "mppt_v0.1.3.8.bin", "date": "2026-04-27", "description": "PAC1954 reverse-current alert + FLPR emergency PWM kill via VEVIF21"},
+    {"version": "v0.1.3.9", "file": "mppt_v0.1.3.9.bin", "date": "2026-04-27", "description": "PAC1954 reverse-current alert + FLPR emergency PWM kill via VEVIF21"}
 ]
