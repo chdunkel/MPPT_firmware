@@ -169,5 +169,6 @@
     {"version": "v0.1.3.26", "file": "mppt_v0.1.3.26.bin", "date": "2026-04-27", "description": "shunt cal: in-field 4-channel calibration + OTA RRAM-sync fix"},
     {"version": "v0.1.3.27", "file": "mppt_v0.1.3.27.bin", "date": "2026-04-27", "description": "shunt cal: in-field 4-channel calibration + OTA RRAM-sync fix"},
     {"version": "v0.1.3.28", "file": "mppt_v0.1.3.28.bin", "date": "2026-04-27", "description": "shunt cal: in-field 4-channel calibration + OTA RRAM-sync fix"},
-    {"version": "v0.1.3.29", "file": "mppt_v0.1.3.29.bin", "date": "2026-04-28", "description": "shunt cal: relax tolerance to 3%, reset channel on exit; freq sweep cap 150kHz"}
+    {"version": "v0.1.3.29", "file": "mppt_v0.1.3.29.bin", "date": "2026-04-28", "description": "shunt cal: relax tolerance to 3%, reset channel on exit; freq sweep cap 150kHz"},
+    {"version": "v0.1.3.30", "file": "mppt_v0.1.3.30.bin", "date": "2026-04-28", "description": "shunt cal: relax tolerance to 3%, reset channel on exit; freq sweep cap 150kHz"}
 ]
