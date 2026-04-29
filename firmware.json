@@ -182,5 +182,6 @@
     {"version": "v0.1.3.39", "file": "mppt_v0.1.3.39.bin", "date": "2026-04-29", "description": "diagnostics + reliability: silence orphan settings key, lazy polarity cache, BT TX count match, FPROTECT off for dev"},
     {"version": "v0.1.3.40", "file": "mppt_v0.1.3.40.bin", "date": "2026-04-29", "description": "diagnostics + reliability: silence orphan settings key, lazy polarity cache, BT TX count match, FPROTECT off for dev"},
     {"version": "v0.1.3.41", "file": "mppt_v0.1.3.41.bin", "date": "2026-04-29", "description": "bt: suspend adv-data updates during OTA to avoid HCI 0x2008 timeout"},
-    {"version": "v0.1.3.42", "file": "mppt_v0.1.3.42.bin", "date": "2026-04-29", "description": "bt: suspend adv-data updates during OTA to avoid HCI 0x2008 timeout"}
+    {"version": "v0.1.3.42", "file": "mppt_v0.1.3.42.bin", "date": "2026-04-29", "description": "bt: suspend adv-data updates during OTA to avoid HCI 0x2008 timeout"},
+    {"version": "v0.1.3.43", "file": "mppt_v0.1.3.43.bin", "date": "2026-04-29", "description": "bt: suspend adv-data updates during OTA to avoid HCI 0x2008 timeout"}
 ]
