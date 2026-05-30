@@ -205,5 +205,6 @@
     {"version": "v0.1.3.61", "file": "mppt_v0.1.3.61.bin", "date": "2026-05-21", "description": "display: blank-init LVGL labels to fix boot \"Text\" flash"},
     {"version": "v0.1.3.62", "file": "mppt_v0.1.3.62.bin", "date": "2026-05-30", "description": "display: blank-init LVGL labels to fix boot \"Text\" flash"},
     {"version": "v0.1.3.63", "file": "mppt_v0.1.3.63.bin", "date": "2026-05-31", "description": "battery: add energy-density + volume fields with datasheet provenance"},
-    {"version": "v0.1.3.64", "file": "mppt_v0.1.3.64.bin", "date": "2026-05-31", "description": "battery: add energy-density + volume fields with datasheet provenance"}
+    {"version": "v0.1.3.64", "file": "mppt_v0.1.3.64.bin", "date": "2026-05-31", "description": "battery: add energy-density + volume fields with datasheet provenance"},
+    {"version": "v0.1.3.65", "file": "mppt_v0.1.3.65.bin", "date": "2026-05-31", "description": "battery: add energy-density + volume fields with datasheet provenance"}
 ]
