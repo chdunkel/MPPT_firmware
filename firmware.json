@@ -209,5 +209,6 @@
     {"version": "v0.1.3.65", "file": "mppt_v0.1.3.65.bin", "date": "2026-05-31", "description": "battery: add energy-density + volume fields with datasheet provenance"},
     {"version": "v0.1.3.66", "file": "mppt_v0.1.3.66.bin", "date": "2026-06-04", "description": "mppt: adaptive run-length step size for fast large-signal tracking"},
     {"version": "v0.1.3.67", "file": "mppt_v0.1.3.67.bin", "date": "2026-06-04", "description": "mppt: adaptive run-length step size for fast large-signal tracking"},
-    {"version": "v0.1.3.68", "file": "mppt_v0.1.3.68.bin", "date": "2026-06-04", "description": "mppt: adaptive run-length step size for fast large-signal tracking"}
+    {"version": "v0.1.3.68", "file": "mppt_v0.1.3.68.bin", "date": "2026-06-04", "description": "mppt: adaptive run-length step size for fast large-signal tracking"},
+    {"version": "v0.1.3.69", "file": "mppt_v0.1.3.69.bin", "date": "2026-06-05", "description": "mppt: adaptive run-length step size for fast large-signal tracking"}
 ]
