@@ -221,5 +221,6 @@
     {"version": "v0.1.3.77", "file": "mppt_v0.1.3.77.bin", "date": "2026-06-06", "description": "ble: advertising/bonding robustness (discoverability, OTA-safe, 3rd-phone pairing)"},
     {"version": "v0.1.3.78", "file": "mppt_v0.1.3.78.bin", "date": "2026-06-07", "description": "Audit + fix outdated comments, stale values, and a backpack cal-label bug"},
     {"version": "v0.1.3.79", "file": "mppt_v0.1.3.79.bin", "date": "2026-06-07", "description": "Audit + fix outdated comments, stale values, and a backpack cal-label bug"},
-    {"version": "v0.1.3.80", "file": "mppt_v0.1.3.80.bin", "date": "2026-06-07", "description": "Audit + fix outdated comments, stale values, and a backpack cal-label bug"}
+    {"version": "v0.1.3.80", "file": "mppt_v0.1.3.80.bin", "date": "2026-06-07", "description": "Audit + fix outdated comments, stale values, and a backpack cal-label bug"},
+    {"version": "v0.1.3.81", "file": "mppt_v0.1.3.81.bin", "date": "2026-06-07", "description": "prj.conf: open MDS characteristic perms to avoid forced pairing"}
 ]
