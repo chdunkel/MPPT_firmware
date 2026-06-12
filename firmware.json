@@ -224,5 +224,6 @@
     {"version": "v0.1.3.80", "file": "mppt_v0.1.3.80.bin", "date": "2026-06-07", "description": "Audit + fix outdated comments, stale values, and a backpack cal-label bug"},
     {"version": "v0.1.3.81", "file": "mppt_v0.1.3.81.bin", "date": "2026-06-07", "description": "prj.conf: open MDS characteristic perms to avoid forced pairing"},
     {"version": "v0.1.3.82", "file": "mppt_v0.1.3.82.bin", "date": "2026-06-07", "description": "prj.conf: open MDS characteristic perms to avoid forced pairing"},
-    {"version": "v0.1.3.83", "file": "mppt_v0.1.3.83.bin", "date": "2026-06-07", "description": "prj.conf: open MDS characteristic perms to avoid forced pairing"}
+    {"version": "v0.1.3.83", "file": "mppt_v0.1.3.83.bin", "date": "2026-06-07", "description": "prj.conf: open MDS characteristic perms to avoid forced pairing"},
+    {"version": "v0.1.3.85", "file": "mppt_v0.1.3.85.bin", "date": "2026-06-13", "description": "battery: ship t_chg_max 60C for the Samsung 35E pack"}
 ]
