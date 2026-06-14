@@ -230,5 +230,6 @@
     {"version": "v0.1.3.87", "file": "mppt_v0.1.3.87.bin", "date": "2026-06-13", "description": "main-sm: treat active BATT harvesting as a wake signal (IDLE + DISCHARGE)"},
     {"version": "v0.1.3.88", "file": "mppt_v0.1.3.88.bin", "date": "2026-06-13", "description": "display: grandfather three caption originals as editorial-rule exceptions"},
     {"version": "v0.1.3.89", "file": "mppt_v0.1.3.89.bin", "date": "2026-06-13", "description": "display: app-selectable idle scene mask (BT_CMD_SET_SCENE_MASK 0x2C)"},
-    {"version": "v0.1.3.90", "file": "mppt_v0.1.3.90.bin", "date": "2026-06-15", "description": "display: USB leg shows 3 graduated chevrons, mirroring the solar leg"}
+    {"version": "v0.1.3.90", "file": "mppt_v0.1.3.90.bin", "date": "2026-06-15", "description": "display: USB leg shows 3 graduated chevrons, mirroring the solar leg"},
+    {"version": "v0.1.3.91", "file": "mppt_v0.1.3.91.bin", "date": "2026-06-15", "description": "state: snap display/BLE average past a connect/disconnect edge"}
 ]
