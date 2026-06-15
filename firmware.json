@@ -236,5 +236,6 @@
     {"version": "v0.1.3.93", "file": "mppt_v0.1.3.93.bin", "date": "2026-06-15", "description": "display: report Batt: Discharge when pack sources real load while parked"},
     {"version": "v0.1.3.95", "file": "mppt_v0.1.3.95.bin", "date": "2026-06-15", "description": "display: fix blank-until-power-cycle hang (single-thread LVGL + TE self-heal)"},
     {"version": "v0.1.3.96", "file": "mppt_v0.1.3.96.bin", "date": "2026-06-15", "description": "display: fix blank-until-power-cycle hang (single-thread LVGL + TE self-heal)"},
-    {"version": "v0.1.3.97", "file": "mppt_v0.1.3.97.bin", "date": "2026-06-15", "description": "display: add `display reset` shell cmd + tunable RSTB pulse (default 10us)"}
+    {"version": "v0.1.3.97", "file": "mppt_v0.1.3.97.bin", "date": "2026-06-15", "description": "display: add `display reset` shell cmd + tunable RSTB pulse (default 10us)"},
+    {"version": "v0.1.3.98", "file": "mppt_v0.1.3.98.bin", "date": "2026-06-15", "description": "display: panel-brick diagnostics — d sleepcycle, d autopd, revert reset to 50ms"}
 ]
