@@ -234,5 +234,6 @@
     {"version": "v0.1.3.91", "file": "mppt_v0.1.3.91.bin", "date": "2026-06-15", "description": "state: snap display/BLE average past a connect/disconnect edge"},
     {"version": "v0.1.3.92", "file": "mppt_v0.1.3.92.bin", "date": "2026-06-15", "description": "display: stop Main: Discharge overlapping the Cyc column on screen2"},
     {"version": "v0.1.3.93", "file": "mppt_v0.1.3.93.bin", "date": "2026-06-15", "description": "display: report Batt: Discharge when pack sources real load while parked"},
-    {"version": "v0.1.3.95", "file": "mppt_v0.1.3.95.bin", "date": "2026-06-15", "description": "display: fix blank-until-power-cycle hang (single-thread LVGL + TE self-heal)"}
+    {"version": "v0.1.3.95", "file": "mppt_v0.1.3.95.bin", "date": "2026-06-15", "description": "display: fix blank-until-power-cycle hang (single-thread LVGL + TE self-heal)"},
+    {"version": "v0.1.3.96", "file": "mppt_v0.1.3.96.bin", "date": "2026-06-15", "description": "display: fix blank-until-power-cycle hang (single-thread LVGL + TE self-heal)"}
 ]
