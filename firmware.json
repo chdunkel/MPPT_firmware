@@ -245,5 +245,6 @@
     {"version": "v0.1.3.103", "file": "mppt_v0.1.3.103.bin", "date": "2026-06-19", "description": "mppt: remove v9 BOOST soft-start at charge-on — fixes ~50% start failures"},
     {"version": "v0.1.3.104", "file": "mppt_v0.1.3.104.bin", "date": "2026-06-19", "description": "mppt: re-add v9 BOOST soft-start — fast (~3 ms) non-yielding ramp"},
     {"version": "v0.1.3.105", "file": "mppt_v0.1.3.105.bin", "date": "2026-06-19", "description": "mppt: re-publish as v0.1.3.105 — identical to .104, forced OTA re-push"},
-    {"version": "v0.1.3.106", "file": "mppt_v0.1.3.106.bin", "date": "2026-06-19", "description": "mppt: drop v9 BOOST soft-start for good — single-write enable"}
+    {"version": "v0.1.3.106", "file": "mppt_v0.1.3.106.bin", "date": "2026-06-19", "description": "mppt: drop v9 BOOST soft-start for good — single-write enable"},
+    {"version": "v0.1.3.107", "file": "mppt_v0.1.3.107.bin", "date": "2026-06-19", "description": "display: keep charging flow screen at 1 Hz during the 5 s idle period"}
 ]
