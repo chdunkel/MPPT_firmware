@@ -252,5 +252,6 @@
     {"version": "v0.1.3.110", "file": "mppt_v0.1.3.110.bin", "date": "2026-06-23", "description": "history: decouple record-write from PAC pipeline (interrupt-free history)"},
     {"version": "v0.1.3.111", "file": "mppt_v0.1.3.111.bin", "date": "2026-06-23", "description": "history: report recording stalls as Memfault heartbeat metrics"},
     {"version": "v0.1.3.112", "file": "mppt_v0.1.3.112.bin", "date": "2026-06-23", "description": "sched: move all blocking work off sysworkq (fix recording/charging stalls at source)"},
-    {"version": "v0.1.3.113", "file": "mppt_v0.1.3.113.bin", "date": "2026-06-28", "description": "feat(v9): inductor-DCR current sensing on CH1 (Solar-in) + copper tempco"}
+    {"version": "v0.1.3.113", "file": "mppt_v0.1.3.113.bin", "date": "2026-06-28", "description": "feat(v9): inductor-DCR current sensing on CH1 (Solar-in) + copper tempco"},
+    {"version": "v0.1.3.114", "file": "mppt_v0.1.3.114.bin", "date": "2026-06-28", "description": "feat(v9): app-side DCR calibration over BLE + live DCR status in DETAIL"}
 ]
