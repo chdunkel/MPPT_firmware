@@ -261,5 +261,6 @@
     {"version": "v0.1.3.120", "file": "mppt_v0.1.3.120.bin", "date": "2026-07-11", "description": "fix(soc): harden anchors, persistence and learning (SOC audit)"},
     {"version": "v0.1.3.121", "file": "mppt_v0.1.3.121.bin", "date": "2026-07-11", "description": "fix(history): never trust a time reference across reboots (epoch-shift bug)"},
     {"version": "v0.1.3.122", "file": "mppt_v0.1.3.122.bin", "date": "2026-07-11", "description": "feat(ble): configurable sleep timeout (idle hours before System OFF)"},
-    {"version": "v0.1.3.123", "file": "mppt_v0.1.3.123.bin", "date": "2026-07-11", "description": "fix(history): saturate int16 record fields + abort restore on disconnect"}
+    {"version": "v0.1.3.123", "file": "mppt_v0.1.3.123.bin", "date": "2026-07-11", "description": "fix(history): saturate int16 record fields + abort restore on disconnect"},
+    {"version": "v0.1.3.124", "file": "mppt_v0.1.3.124.bin", "date": "2026-07-12", "description": "feat(display): LP/HP drive profiles + charging A/B alternator (field test)"}
 ]
