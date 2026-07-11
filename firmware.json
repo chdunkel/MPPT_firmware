@@ -262,5 +262,6 @@
     {"version": "v0.1.3.121", "file": "mppt_v0.1.3.121.bin", "date": "2026-07-11", "size": 647144, "description": "- Fixed history timestamps that could shift after a device restart"},
     {"version": "v0.1.3.122", "file": "mppt_v0.1.3.122.bin", "date": "2026-07-11", "size": 647240, "description": "- New: configurable sleep timeout — choose how long the device sits idle before powering off (4–168 h, set from the app)"},
     {"version": "v0.1.3.123", "file": "mppt_v0.1.3.123.bin", "date": "2026-07-11", "size": 647712, "description": "- More robust history recording during unusual power readings\n- History restore now stops cleanly if the phone disconnects mid-transfer"},
-    {"version": "v0.1.3.124", "file": "mppt_v0.1.3.124.bin", "date": "2026-07-12", "size": 648528, "description": "- Display field test: alternates two panel drive settings while charging\n- Helps identify which setting keeps the display stable"}
+    {"version": "v0.1.3.124", "file": "mppt_v0.1.3.124.bin", "date": "2026-07-12", "size": 648528, "description": "- Display field test: alternates two panel drive settings while charging\n- Helps identify which setting keeps the display stable"},
+    {"version": "v0.1.3.125", "file": "mppt_v0.1.3.125.bin", "date": "2026-07-12", "size": 648528, "description": "- Fixed display flicker in low light from the previous test build\n- Display test continues: LP/HP tag alternates while charging\n- Faster display updates during HP phases"}
 ]
